@@ -1,0 +1,31 @@
+<div class="" ng-controller="MainController">
+  <h1>Main screen</h1>
+  <h2>{{foo}}</h2>
+  <a href="" class="btn btn-danger">Button</a>
+  <div ng-repeat="skill in skillArray">
+    {{skill}}
+  </div>
+
+
+  <!-- <div>
+      {{searchTermArray}}
+    </div> -->
+
+  <!-- <pre>{{ obj.data.items[0]}}</pre> -->
+  <!-- <div>
+    <ul>
+      <li ng-repeat="title in itemsTitle">
+         {{title}}
+      </li>
+    </ul>
+  </div> -->
+
+  <div>
+    <br>
+    <input type="text" ng-model="youTubeModel.searchFor" class="form-control" placeholder="
+    search for something">
+    <br>
+    <input type="button" ng-click="loadDefaultResults(youTubeModel.searchFor)" class="btn btn-success" value="Search in youtube">
+  </div>
+
+</div>

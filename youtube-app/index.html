@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Language" content="en" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Youtube App." />
+  <!--Start of Favicon-->
+  <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+  <!--End of Favicon-->
+  <!--Start of Bootstrap CSS-->
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="bower_components/angular-bootstrap/ui-bootstrap-csp.css">
+  <link rel="stylesheet" href="bower_components/jquery-rateyo/src/jquery.rateyo.css">
+  <!--End Of Bootstrap CSS-->
+  <!--Third party CSS-->
+
+  <!--Third party CSS-->
+
+  <!--Start of CareeerWaze app CSS-->
+  <link rel="stylesheet" href="style/application.css">
+
+  <!--End of CareerWaze app CSS-->
+</head>
+<!--Angular Application name and UI View configuration-->
+
+<body ng-app="careerwazeWebApp" class="ng-cloak">
+  <div ng-view=""></div>
+</body>
+<!--End of Application and view configuration.. !! Warning - Please do not change this file and order of dependencies, as it could lead to failure of angular loading correctly.-->
+<!--Core Angular and JQuery dependencies-->
+<script src="http://localhost:35729/livereload.js" data-concat="false"></script>
+
+<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="bower_components/jquery-ui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-aria/angular-aria.min.js"></script>
+<script src="bower_components/angular-animate/angular-animate.min.js"></script>
+<script type="text/javascript" src="bower_components/angular-route/angular-route.min.js"></script>
+<!-- <script type="text/javascript" src="bower_components/ng-letter-avatar/dist/ngletteravatar.min.js"></script> -->
+<!--Endo of Core Angular and JQuery dependencies-->
+<!--Angular third party MIT licenses modules-->
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="bower_components/angular-bootstrap/ui-bootstrap.min.js"></script>
+<!--<script data-require="ui-bootstrap@0.13.0" data-semver="0.13.0" src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.13.0.min.js"></script>-->
+<script src="bower_components/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+
+
+<!--End of third party modules-->
+<!--Application configuration-->
+<script type="text/javascript" src="app.js"></script>
+<!-- <script type="text/javascript" src="config/httpProvider.js"></script> -->
+<!--End of Application Configuration-->
+<script src="lib/iframe_api.js"></script>
+
+<!--Controllers-->
+<script type="text/javascript" src="views/main/main.controller.js"></script>
+<script type="text/javascript" src="views/registration/register.controller.js"></script>
+<script type="text/javascript" src="views/youtube-app/youtubeapictrl.js"></script>
+<script type="text/javascript" src="views/youtube-filter/youtube-filter.js"></script>
+<script type="text/javascript" src="views/youtube-Show-English-Titles/youtube-Show-English-TitlesCtrl.js"></script>
+
+
+
+<!--End of Controllers-->
+<!--Factories and Services-->
+<script type="text/javascript" src="service/config/config.js"></script>
+<script type="text/javascript" src="service/youtube/youtubeService.js"></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+
+
+<!--End Factories and Services-->
+<!--Directive starts here -->
+<script src="lib/iframe_api.js"></script>
+<script src="node_modules/angular-youtube-embed/src/angular-youtube-embed.js"></script>
+<!-- <script src="node_modules/algorithmia/lib/algorithmia.js"></script> -->
+<script src="https://algorithmia.com/v1/clients/js/algorithmia-0.2.0.js" type="text/javascript"></script>
+<!--Directive ends here -->
+
+</html>

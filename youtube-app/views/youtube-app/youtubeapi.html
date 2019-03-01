@@ -1,0 +1,56 @@
+<div>
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <form class="navbar-form navbar-left">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Search" ng-model="searchBox.searchTerm">
+                </div>
+                <button type="submit" class="btn btn-default" ng-click="loadResults(searchBox.searchTerm)">Submit</button>
+            </form>
+        </div>
+    </nav>
+</div>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-7">
+            <div ng-if="itemslength">
+                <div class="video-player">
+                    <youtube-video video-id="theVideoId"></youtube-video>
+                    <br>
+                    <div class="playing-video-details">
+                        <h4 ng-bind="playingVideoTitle"></h4>
+                        <p ng-bind="playingVideoDescription"></p>
+                    </div>
+                </div>
+            </div>
+            <div ng-if="!itemslength">
+                <h1 ng-bind="noresponse"></h1>
+            </div>
+        </div>
+        <div class="col-md-5">
+            <div class="row" ng-repeat="item in obj.data.items  ">
+                <div>
+                    <div class="col-md-7">
+                        <div class="thumbnail">
+                            <img ng-src="{{item.snippet.thumbnails.medium.url}}" alt="{{item.snippet.description}}" ng-click="playvideo(item)">
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="thumbnail-details">
+                            <ul>
+                                <li class="thumbnail-header">
+                                    <h5>
+                                        <strong>{{item.snippet.title}}</strong>
+                                    </h5>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

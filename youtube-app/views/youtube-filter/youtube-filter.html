@@ -1,0 +1,19 @@
+<div>
+    <br>
+    <input type="text" ng-model="searchBox.searchTerm" class="form-control" placeholder="search for something">
+    <br>
+    <input type="button" ng-click="loadResults(searchBox.searchTerm)" class="btn btn-success" value="Search in youtube">
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <p ng-repeat="item in itemsTitle">
+            {{item}}
+        </p>
+    </div>
+    <div class="col-md-6">
+        <p ng-repeat="title in englishTitles track by $index">
+            {{title}}
+        </p>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+.form-control {
+  width: 300px;
+}
+
+.form-group {
+  margin-left: 415px;
+}
+
+.thumbnail {
+  background-color: blueviolet;
+}
+.thumbnail-details {
+  margin-top: 35px;
+}
+
+.thumbnail-details > ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.views {
+  list-style-type: none;
+}
+
+.views > li {
+  display: inline;
+}

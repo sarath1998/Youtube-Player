@@ -1,0 +1,12 @@
+node_modules/*
+bower_components/*
+dist/*
+logs
+*.log
+npm-debug.log*
+node_modules/
+bower_components/
+dist/
+.vscode
+.eslintrc
+.eslintignore

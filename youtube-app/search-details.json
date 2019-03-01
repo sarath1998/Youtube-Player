@@ -1,0 +1,342 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/7W6XKr6y3WI_mGM8Px1nWkMWXOs\"",
+    "nextPageToken": "CAoQAA",
+    "regionCode": "IN",
+    "pageInfo": {
+     "totalResults": 461,
+     "resultsPerPage": 10
+    },
+    "items": [
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/jqRJBvsD7TbFzC-ycGUQExGXDhg\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "8PVn2AHXWXY"
+      },
+      "snippet": {
+       "publishedAt": "2012-11-06T09:27:37.000Z",
+       "channelId": "UCeoyATtDjeDXGQzH2ANaYzQ",
+       "title": "Kumar, Dean & Director, Gitam School of International Business, Vishakhapatnam - hybiztv",
+       "description": "hybiz.tv - Kumar, Dean & Director, Gitam School of International Business, Vishakhapatnam.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/8PVn2AHXWXY/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/8PVn2AHXWXY/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/8PVn2AHXWXY/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HYBIZTV HD",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Dq5DPP1DJFgrV_kkDxjfx17hN2w\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "xxJgsxXRrTc"
+      },
+      "snippet": {
+       "publishedAt": "2011-11-30T16:46:15.000Z",
+       "channelId": "UCK4ZC0wHmqiPg5w_OwaqjKQ",
+       "title": "Gitam Students for Devil Dozer at IIT Bombay Techfest 2011",
+       "description": "This is the robot made by Gitam Vizag Students by names Susanth MahaPatro (First year, B.Tech) and Vicky for the event by name Devil Dozer, whose main ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/xxJgsxXRrTc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/xxJgsxXRrTc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/xxJgsxXRrTc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Susanth Maha Patro",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/WSGO7O1Nue95H4KDFsPPIw66NCI\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "wNUcss335po"
+      },
+      "snippet": {
+       "publishedAt": "2012-11-06T09:33:21.000Z",
+       "channelId": "UCeoyATtDjeDXGQzH2ANaYzQ",
+       "title": "Varma, Gitam School of International Business, Vishakhapatnam - hybiz.tv",
+       "description": "hybiz.tv - Varma, Gitam School of International Business, Auto show Exhibitions, Vishakhapatnam.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/wNUcss335po/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/wNUcss335po/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/wNUcss335po/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "HYBIZTV HD",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Ec8j4GPAbQHog1Al_kUoPKAhv3I\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "LCfP4FrjCnM"
+      },
+      "snippet": {
+       "publishedAt": "2015-02-20T18:18:57.000Z",
+       "channelId": "UClgN6I9WB9ILpYfo9OAHd3Q",
+       "title": "Champ De Mines|GUSAC Carnival 2k15| GITAM UNIVERSITY | Visakhapatnam",
+       "description": "To build a semi autonomously controlled bot which detects metal mines and pickup victims in the arena and drop them in the safe zone. FOR MORE INFO GO ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/LCfP4FrjCnM/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/LCfP4FrjCnM/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/LCfP4FrjCnM/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "abhinav bhukya",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/sLHHA3pDo-uhQ4OhdwkWTaN_zoo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "tG3U6bAN6ac"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-10T18:58:30.000Z",
+       "channelId": "UC0AUWVMcq_BWs_qEkXCl7pw",
+       "title": "Prem Chand @ GITAM Medium",
+       "description": "SorokaSoft neXt.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/tG3U6bAN6ac/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/tG3U6bAN6ac/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/tG3U6bAN6ac/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "SOROKASOFT ACORN",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/-5jWgEfVbYBVOCpP4BN0c6yz_qo\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "IFSkgjoMld0"
+      },
+      "snippet": {
+       "publishedAt": "2017-10-06T04:21:11.000Z",
+       "channelId": "UCJ8oLTiwk8F4KYv5uxERcAQ",
+       "title": "Krishna IVF team visit GITAM University",
+       "description": "Dr. G. A. Ramaraju, Founder & Director, Krishna IVF Clinic, Visakhapatnam addressed with GITAM University. 23/09/2017.",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/IFSkgjoMld0/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/IFSkgjoMld0/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/IFSkgjoMld0/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Krishna IVF",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/mnJhXDdvmcsXcDkrSuT9DSm5g98\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "W881mW76pKo"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-02T06:01:25.000Z",
+       "channelId": "UCXlS5rVjSs8dVRzGaUkTS2A",
+       "title": "Science Exhibition at GITAM University Hyderabad -Study Guide,TNews",
+       "description": "",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/W881mW76pKo/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/W881mW76pKo/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/W881mW76pKo/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "srinath pulaverthi",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/DWumWLf21L_OtSPi3YAXX8GTbRU\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "cCAMHZZuYyc"
+      },
+      "snippet": {
+       "publishedAt": "2017-11-19T08:41:16.000Z",
+       "channelId": "UCZXjJT85-7-CAAl6_LdEOZQ",
+       "title": "GITAM UNIVERSITY HYDERABAD CAMPUS",
+       "description": "gym gloves:http://fkrt.it/lCcnhnuuuN ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/cCAMHZZuYyc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/cCAMHZZuYyc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/cCAMHZZuYyc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "PRATHAP'S TECH",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/Fs3eg9FzJP66o-Fv3pI7a5NDe3c\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "FQw0mwiISNc"
+      },
+      "snippet": {
+       "publishedAt": "2017-12-22T12:52:02.000Z",
+       "channelId": "UCLoNjDU7Fo5cQsbKb3VN_nw",
+       "title": "SCIENCE FAIR @gitam",
+       "description": "There was a science fair held in our university where students from different colleges and schools visited to gain knowledge. Location: GITAM UNIVERSITY ...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/FQw0mwiISNc/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/FQw0mwiISNc/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/FQw0mwiISNc/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "PRIMEFLIX Akshay patil",
+       "liveBroadcastContent": "none"
+      }
+     },
+     {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/JahTR9iRThVeKGqkjPECJu372T8\"",
+      "id": {
+       "kind": "youtube#video",
+       "videoId": "jnmFMHoKY2M"
+      },
+      "snippet": {
+       "publishedAt": "2016-01-24T11:32:47.000Z",
+       "channelId": "UCB2U1QUSjsTeVTErq2t5qlg",
+       "title": "Gitam 1st MBBS Students freshers day Dance Performance-Awsome performance",
+       "description": "First batch of Gitam MBBS students rocking ther first freshers day...",
+       "thumbnails": {
+        "default": {
+         "url": "https://i.ytimg.com/vi/jnmFMHoKY2M/default.jpg",
+         "width": 120,
+         "height": 90
+        },
+        "medium": {
+         "url": "https://i.ytimg.com/vi/jnmFMHoKY2M/mqdefault.jpg",
+         "width": 320,
+         "height": 180
+        },
+        "high": {
+         "url": "https://i.ytimg.com/vi/jnmFMHoKY2M/hqdefault.jpg",
+         "width": 480,
+         "height": 360
+        }
+       },
+       "channelTitle": "Kandregula Chaitanya",
+       "liveBroadcastContent": "none"
+      }
+     }
+    ]
+   }

@@ -1,0 +1,12 @@
+Set the path in cmd to the folder
+Type the follwing commands
+
+Modify the url based upon the page u want to go
+
+Url is available in app.js...just replace the # symbol with 
+
+/youtube-filter
+
+npm install
+bower install
+grunt serve
